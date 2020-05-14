@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## live at [CLICK](http://crud-react-hooks.surge.sh/))
+## live at [CLICK](http://crud-react-hooks.surge.sh/)
 
 ## Available Scripts
 
